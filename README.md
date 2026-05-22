@@ -1,8 +1,5 @@
 # Full-stack-coursework
-
-**Project README**
-
-## 📂 Repository Structure
+## Repository Structure
 In this git repository, you will find the following required materials:
 1. **Material from exercise projects:** Code and assignments completed during the course modules.
 2. **Learning Diary:** Documentation of the learning process, architectural decisions, and technical challenges overcome during development.
@@ -10,7 +7,9 @@ In this git repository, you will find the following required materials:
 4. **ReadME:** This file, detailing the system architecture and instructions on how to run the project.
 5. **Video Link:** A file containing a link to a video demonstration of the project running and its core features.
 
-- **Purpose:**: Building MERN app for tracking job applications.
+
+##Project ReadME
+Building MERN app for tracking job applications
 
 ## System Architecture
 This application utilizes a decoupled client-server architecture built on the **MERN** stack, which is integrated via a unified build process for production deployment.
