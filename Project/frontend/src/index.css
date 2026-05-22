@@ -247,6 +247,10 @@ h3 {
   .heading p {
     font-size: 1.5rem;
   }
+
+  .applications {
+    grid-template-columns: 1fr;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
