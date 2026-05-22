@@ -1,4 +1,6 @@
 # Full-stack-coursework
+
+## Name: Arpan Sarkar
 ## Repository Structure
 In this git repository, you will find the following required materials:
 1. **Material from exercise projects:** Code and assignments completed during the course modules.
